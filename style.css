@@ -11,6 +11,8 @@ body {
   display: flex;
   align-items: center;
   padding: 10px 20px;
+  justify-content: space-between;
+  box-sizing: border-box;
   width: 100%;
 }
 
